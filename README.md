@@ -1,4 +1,4 @@
-# Amazon Tracker
+# Amazon Product Tracker
 
 ### Project Shema
 
